@@ -9,12 +9,12 @@ Aplikasyon an ofri rabè espesyal jiska 10% sou plizyè pwodwi.
  - Aplikasyon an pèmèt itilizatè yo kreye kont oswa konekte fasil.
  - Itilizatè a ka verifye kont li pou plis sekirite.
    
-### Katalòg ak Rechèch Pwodui
+ Katalòg ak Rechèch Pwodui
 -	Katalòg pwodwi byen òganize.
 -	Zouti rechèch ak filtè pa kategori, pri, mak.
 -	Montre si yon pwodwi disponib pou vant oswa rezèvasyon.
 
-### Peman
+Peman
 -	Peman ak kat kredi oswa kat bank.
   
   
