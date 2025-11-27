@@ -1,12 +1,13 @@
-MotoTech
-Description :
+## MotoTech
+### Description :
  Se yon aplikasyon modèn ki pèmèt ou achte motosiklèt fasil, rapid ak san estrès.
 Nan MotoTech, ou jwenn yon gwo varyete motosiklèt kalite, epi ou ka fè bon chwa san tèt chaje.
 Aplikasyon an ofri rabè espesyal jiska 10% sou plizyè pwodwi.
-________________________________________
-1. Koneksyon ak Sekirite
-•	Aplikasyon an pèmèt itilizatè yo kreye kont oswa konekte fasil.
-•	Itilizatè a ka verifye kont li pou plis sekirite.
+
+### MUST HAVE
+ - Koneksyon ak Sekirite
+ - Aplikasyon an pèmèt itilizatè yo kreye kont oswa konekte fasil.
+ - Itilizatè a ka verifye kont li pou plis sekirite.
 ________________________________________
 2. Katalòg ak Rechèch Pwodui
 •	MotoTech gen yon katalòg pwodwi byen òganize.
